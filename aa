@@ -1,0 +1,58 @@
+      <div class="swiper-slide"><img src="img/Livro1.svg" alt="Imagem ilustrativa do livro"></div>
+      <div class="swiper-slide"><img src="img/Livro2.svg" alt="Imagem ilustrativa do livro"></div>
+      <div class="swiper-slide"><img src="img/Livro3.svg" alt="Imagem ilustrativa do livro"></div>
+      <div class="swiper-slide"><img src="img/Livro4.svg" alt="Imagem ilustrativa do livro"></div>
+      <div class="swiper-slide"><img src="img/Livro5.svg" alt="Imagem ilustrativa do livro"></div>
+      <div class="swiper-slide"><img src="img/Livro6.svg" alt="Imagem ilustrativa do livro"></div>
+      <section class="banner">
+        <h2 class="banner__t">Já sabe por onde começar?</h2>
+        <p class="banner__p">Encontre em nossa estante o que precisa para seu desenvolvimento!</p>
+        <input type="search" class="banner__pesquisa" placeholder="Qual será sua próxima leitura?">
+    </section>
+    161x166
+    ççççççççççççççççççççççççççççççç
+    <section class="carrossel">
+      <h2 class="carrossel__T">Mais vendidos</h2>
+      <!-- Slider main container -->
+  <div class="carrossel__container">
+      <div class="swiper">
+          <!-- Additional required wrapper -->
+          <!-- If we need pagination -->
+          <div class="swiper-pagination"></div>
+          
+          <div class="swiper-wrapper">
+              <!-- Slides -->
+              <div class="swiper-slide"><img src="img/Livro8.svg" alt="Imagem ilustrativa do livro"></div>
+              <div class="swiper-slide"><img src="img/Livro7.svg" alt="Imagem ilustrativa do livro"></div>
+              <div class="swiper-slide"><img src="img/Livro9.svg" alt="Imagem ilustrativa do livro"></div>
+              <div class="swiper-slide"><img src="img/Livro4.svg" alt="Imagem ilustrativa do livro"></div>
+              <div class="swiper-slide"><img src="img/Livro2.svg" alt="Imagem ilustrativa do livro"></div>
+              <div class="swiper-slide"><img src="img/Livro6.svg" alt="Imagem ilustrativa do livro"></div>
+          </div>
+          <!--separação-->
+          <div class="card cardo">
+              <div class="card__descrition">
+                  <!--1 linha-->
+                <div clas="descrition">
+                  <img src="img/Star 4.svg" alt="estrelinha">
+                  <img src="img/Star 4.svg" alt="estrelinha">
+                  <img src="img/Star 4.svg" alt="estrelinha">
+                  <img src="img/Star 4.svg" alt="estrelinha">
+                  <img src="img/Star 4.svg" alt="estrelinha">
+                  <h3 class="descrition__T">Autor do Mês</h3>
+                  <h2 class="descrition__T__l">Jorge Ramos</h2>
+                  <p class="descrition__p">Analista de sistemas e escritor, Jorge é especialista em Front-End.</p>
+                </div>
+                <img src="/img/coringa.webp" alt="logo da alura book" class="descrition__img teste">
+              </div>
+          <!--2 linha-->
+          <div class="card__bottons">
+              <ul class="bottons">
+                  <li class="bottons__itens"><img src="img/Favoritos.svg" alt="favoritar livro"></li>
+                  <li class="bottons__itens"><img src="img/Group.svg" alt="comprar livro"></li>
+              </ul>
+              <a href="#" class="bottons__a">Saiba mais</a>
+          </div>
+      </div>
+  </div>
+</section>
